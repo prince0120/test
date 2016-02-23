@@ -9,7 +9,7 @@ public class ELAction {
 	private ArrayList <String>list;
 	public String listIterator(){
 		list=new ArrayList<String>();
-		list.add("Prince");
+		list.add("Prince Aajayau");
 		list.add("Neha");
 		list.add("Ajay");
 		return "success";
